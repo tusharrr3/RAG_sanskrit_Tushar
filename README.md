@@ -1,1 +1,1 @@
-RAG_Sanskrit_<TUSHAR>
+RAG_Sanskrit_TUSHAR
